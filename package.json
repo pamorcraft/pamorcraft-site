@@ -1,0 +1,10 @@
+{
+  "name": "pamorcraft-site",
+  "version": "1.0.0",
+  "description": "Website statis untuk Pamor Craft",
+  "scripts": {
+    "build": "echo 'No build step needed'"
+  },
+  "author": "Pamor Craft",
+  "license": "MIT"
+}
